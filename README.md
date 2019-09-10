@@ -6,7 +6,7 @@ sportsdata.io
 I used insomnia to test and pull a set of data via a GET request of weekly scores:
 https://api.sportsdata.io/v3/nfl/scores/json/ScoresByWeek/
 
-<img src="fantasy.png" alt="Quote">
+![](https://i.imgur.com/GEAg6nN.png)
 
 I then streamed a get request of scores over to my Keen.io project
 
