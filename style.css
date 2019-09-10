@@ -1,0 +1,14 @@
+h1 {
+  font-size: 48px !important;
+}
+
+#chart4{
+ height: 355px;
+ overflow:auto;
+}
+
+.keen-dataviz-metric {
+    height: inherit;
+    color: #fff;
+    background: #209cee !important;
+}
